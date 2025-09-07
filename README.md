@@ -6,10 +6,10 @@ project/
 ├── task_2/
 │ ├── figures/
 │ │ ├── init.py
-│ │ ├── virtual.py # Абстрактный класс Figure
-│ │ ├── circle.py # Класс Circle
-│ │ └── triangle.py # Класс Triangle
-│ └── main.py # Пример использования фигур
+│ │ ├── virtual.py 
+│ │ ├── circle.py 
+│ │ └── triangle.py 
+│ └── main.py 
 └── task_3/
 └── dataframe.py # Анализ данных PySpark
 ```
@@ -20,9 +20,7 @@ project/
 
 ```bash
 cd task_2
-```
-# Запустите пример использования
-```bash
+
 python main.py
 ```
 ### Task 3: Анализ данных PySpark
