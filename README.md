@@ -4,16 +4,16 @@
 ```bash
 project/
 ├── task_2/
+│ ├── __init__.py
+│ |──  main.py 
 │ ├── figures/
 │ │ ├── __init__.py
 │ │ ├── virtual.py 
 │ │ ├── circle.py 
 │ │ └── triangle.py
-│ ├── test/
-│ │ ├── test_circle.py
-│ │ └── test_triangle.py
-│ ├── __init__.py
-│ └── main.py 
+│ └── test/
+│   ├── test_circle.py
+│   └── test_triangle.py
 └── task_3/
 └── dataframe.py # Анализ данных PySpark
 ```
