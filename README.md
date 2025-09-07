@@ -1,6 +1,7 @@
 # Геометрические фигуры и анализ данных PySpark
 
 ## Структура проекта
+```bash
 project/
 ├── task_2/
 │ ├── figures/
@@ -11,15 +12,13 @@ project/
 │ └── main.py # Пример использования фигур
 └── task_3/
 └── dataframe.py # Анализ данных PySpark
-
-text
+```
 
 ## Запуск программ
 
 ### Task 2: Геометрические фигуры
 
 ```bash
-# Перейдите в директорию task_2
 cd task_2
 ```
 # Запустите пример использования
@@ -37,7 +36,6 @@ pip install pyspark
 Запуск:
 
 ```bash
-# Перейдите в директорию task_3
 cd task_3
 
 python dataframe.py
