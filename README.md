@@ -23,6 +23,13 @@ cd task_2
 
 python main.py
 ```
+
+Для запуска тестов воспользовать:
+```bash
+pip install requirements.txt
+
+pytest .
+```
 ### Task 3: Анализ данных PySpark
 
 Установка зависимостей:
