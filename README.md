@@ -5,10 +5,14 @@
 project/
 ├── task_2/
 │ ├── figures/
-│ │ ├── init.py
+│ │ ├── __init__.py
 │ │ ├── virtual.py 
 │ │ ├── circle.py 
-│ │ └── triangle.py 
+│ │ └── triangle.py
+│ ├── test/
+│ │ ├── test_circle.py
+│ │ └── test_triangle.py
+│ ├── __init__.py
 │ └── main.py 
 └── task_3/
 └── dataframe.py # Анализ данных PySpark
